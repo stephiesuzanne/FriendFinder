@@ -1,5 +1,5 @@
 # FriendFinder
-Heroku Deployed Link: https://friend-finder22.herokuapp.com/survey
+Heroku Deployed Link: https://friend-finder22.herokuapp.com
 
 
 Instructions
