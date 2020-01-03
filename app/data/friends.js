@@ -30,9 +30,9 @@ var friends = [
       scores: [4, 3, 4, 1, 5, 2, 5, 3, 1, 4]
     },
     {
-      name: "Blake Lively",
+      name: "Sam Heughan",
       photo:
-        "https://media.vanityfair.com/photos/560c07690404673e0de66e1d/master/w_960,c_limit/blake-lively-end-of-preserve-01.jpg",
+        "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2019/04/NINTCHDBPICT000471568800.jpg",
       scores: [4, 3, 4, 2, 4, 3, 5, 3, 5, 4]
     },
     {
